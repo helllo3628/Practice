@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Practice W3school part 14</title>
+    <link rel="icon" type="image/x-icon" href="Image.png">
 </head>
 <body>
 
@@ -25,6 +26,6 @@
 
 <!--Favicon-->
 
-<link rel="icon" type="image/x-icon" href="Image.png">
+
     
 </body>
