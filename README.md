@@ -18,13 +18,13 @@
 <!--Format Support-->
 
 <picture>
-  <source srcset="image.png">
+  <source srcset="Image.png">
   <source srcset="sample.png">
   <img src="Earth.png" alt="Earth" style="width:auto;">
 </picture>
 
 <!--Favicon-->
 
-<link rel="icon" type="image/x-icon" href="image.png">
+<link rel="icon" type="image/x-icon" href="Image.png">
     
 </body>
