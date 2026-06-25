@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Practice W3school part 14</title>
-    <link rel="icon" type="image/x-icon" href="Image.png">
+
+    <link rel="icon" type="image/png" href="image.png">
 </head>
 <body>
 
@@ -19,12 +20,12 @@
 <!--Format Support-->
 
 <picture>
-  <source srcset="Image.png">
+  <source srcset="image.png">
   <source srcset="sample.png">
   <img src="Earth.png" alt="Earth" style="width:auto;">
 </picture>
 
-<!--Favicon-->
+
 
 
     
